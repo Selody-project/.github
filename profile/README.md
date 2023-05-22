@@ -31,5 +31,5 @@
 | 프론트 | 프론트 | 프론트 | 백엔드 | 백엔드 | 백엔드 | 디자인 | 기획 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |  |
-| [김영훈](https://github.com/joseph0926) | [한준](https://github.com/97970z) | 이의섭 | [이승우](https://github.com/GGANCC1) | [Taeho choi](https://github.com/Taehoya) | [Hanyi](https://github.com/hanyiseo2) | 박서연 | 장혜리 |
+| [김영훈](https://github.com/joseph0926) | [한준](https://github.com/97970z) | [이의섭](https://github.com/uiseop) | [이승우](https://github.com/GGANCC1) | [Taeho choi](https://github.com/Taehoya) | [Hanyi](https://github.com/hanyiseo2) | 박서연 | 장혜리 |
 
