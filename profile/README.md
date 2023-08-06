@@ -39,5 +39,5 @@
 | 프론트 | 프론트 | 백엔드 | 백엔드 | 디자인 | 디자인 | 
 | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |
-| [김다은]() | [이준수]() | [이승우](https://github.com/GGANCC1) | [Hanyi](https://github.com/hanyiseo2) | 박서연 | 이지수 |
+| [김다은](https://github.com/ddaeunbb) | [이준수](https://github.com/2Junsu) | [이승우](https://github.com/GGANCC1) | [Hanyi](https://github.com/hanyiseo2) | 박서연 | 이지수 |
 
