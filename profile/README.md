@@ -35,7 +35,7 @@
 | [김영훈](https://github.com/joseph0926) | [한준](https://github.com/97970z) |[Taeho choi](https://github.com/Taehoya) | 장혜리 |
 
 ## 팀원
-| 프론트 | 프론트 | 백엔드 | 백엔드 | 디자인 | 디자인 | 
+| 프론트 | 프론트 | 백엔드 | 백엔드 | 디자인 | 디자인 |
 | --- | --- | --- | --- | --- | --- |
-| []() | [이준수](https://github.com/2Junsu) | [이승우](https://github.com/GGANCC1) | [Hanyi](https://github.com/hanyiseo2) | 박서연 | 이지수 |
+| [이준수](https://github.com/2Junsu) | [조민택](https://github.com/MintaekCho) | [이승우](https://github.com/GGANCC1) | [Hanyi](https://github.com/hanyiseo2) | 박서연 | 이지수 |
 
