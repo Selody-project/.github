@@ -37,5 +37,5 @@
 ## 팀원
 | 프론트 | 프론트 | 프론트 | 백엔드 | 백엔드 | 디자인 | 디자인 |
 | --- | --- | --- | --- | --- | --- | --- |
-| [임유빈](https://github.com/Been0701) | [이준수](https://github.com/2Junsu) | [조민택](https://github.com/MintaekCho) | [이승우](https://github.com/GGANCC1) | [Hanyi](https://github.com/hanyiseo2) | 박서연 | 이지수 |
+| [김영인](https://github.com/kimyoungyin) | [김준식](https://github.com/sikkzz) | [이준수](https://github.com/2Junsu) | [이승우](https://github.com/GGANCC1) | [Hanyi](https://github.com/hanyiseo2) | 박서연 | [이지수](https://github.com/dlwltn4123) |
 
