@@ -29,13 +29,8 @@
   - Docker
   - jest
 
-## 기여해주신 분들
-| 프론트 | 프론트 | 백엔드 | 기획 |
-| --- | --- | --- | --- |
-| [김영훈](https://github.com/joseph0926) | [한준](https://github.com/97970z) |[Taeho choi](https://github.com/Taehoya) | 장혜리 |
-
 ## 팀원
-| 프론트 | 프론트 | 프론트 | 백엔드 | 백엔드 | 디자인 | 디자인 |
-| --- | --- | --- | --- | --- | --- | --- |
-| [김영인](https://github.com/kimyoungyin) | [김준식](https://github.com/sikkzz) | [이준수](https://github.com/2Junsu) | [이승우](https://github.com/GGANCC1) | [Hanyi](https://github.com/hanyiseo2) | 박서연 | [이지수](https://github.com/dlwltn4123) |
+| 프론트 | 프론트 | 프론트 | 백엔드 | 디자인 | 디자인 |
+| --- | --- | --- | --- | --- | --- |
+| [김영인](https://github.com/kimyoungyin) | [김준식](https://github.com/sikkzz) | [이준수](https://github.com/2Junsu) | [이승우](https://github.com/GGANCC1) | 박서연 | [이지수](https://github.com/dlwltn4123) |
 
