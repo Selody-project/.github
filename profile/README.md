@@ -30,7 +30,7 @@
   - jest
 
 ## 팀원
-| 프론트 | 프론트 | 프론트 | 백엔드 | 디자인 | 디자인 |
+| 프론트, 백엔드 | 프론트 | 프론트 | 백엔드 | 디자인 | 디자인 |
 | --- | --- | --- | --- | --- | --- |
 | [김영인](https://github.com/kimyoungyin) | [김준식](https://github.com/sikkzz) | [이준수](https://github.com/2Junsu) | [이승우](https://github.com/GGANCC1) | 박서연 | [이지수](https://github.com/dlwltn4123) |
 
